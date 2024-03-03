@@ -4,7 +4,7 @@
         "install": {
             "title": "Install",
             "description": "Run install",
-            "command": "npm i"
+            "command": "yarn install"
         },
         "build": {
             "title": "Build Project",
