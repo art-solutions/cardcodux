@@ -3,7 +3,7 @@
     "scripts": {
         "install": {
             "title": "Install",
-            "description": "Run install",
+            "description": "Run install yarn",
             "command": "yarn install"
         },
         "build": {
